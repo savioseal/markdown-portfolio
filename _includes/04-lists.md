@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+My favourite colours:
+* Teal
+* Blue
+* Yellow
+
+My favourite fast-food:
+1. Pizza
+  1. Cheese pizza
+  2. Cheese and ham pizza
+  3. Pineapple pizza
+2. Burgers
+3. Kebab
